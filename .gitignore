@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+evaluation_results/
+explainability_results/
+dataset/
+explainability_cv_results/*
+!explainability_cv_results/cv_shap_feature_importance.png
+!explainability_cv_results/cv_shap_summary.png
+!explainability_cv_results/cv_shap_feature_importance.csv
